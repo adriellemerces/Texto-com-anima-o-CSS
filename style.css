@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.anime{
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 100px;
+    font-size: 100px;
+    font-weight: 700;
+    color: transparent;
+    background-image: url(https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3FvZ2JrdTByaHM3bzdpcjh0aDBqOTJzZjQ3empvcTB3ZWk4enBkdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT1XGZndeDLlWvSDaU/giphy.gif);
+    background-position: center;
+    background-clip: text;
+}   
+
+.anime2{
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 100px;
+    font-size: 100px;
+    font-weight: 700;
+    color: transparent;
+    background-image: url(https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamN3dm44N2VpNjEyZnQ4d2Q4M3A5bnlqdWF5Zzl5bnliZ3h0dG5tYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jsUIl8W67ohMXGx1V8/giphy.gif);
+    background-position: center;
+    background-clip: text;
+}   
+
+.anime3{
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 100px;
+    font-size: 100px;
+    font-weight: 700;
+    color: transparent;
+    background-image: url(https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXozMGk3N2UyYXV3d3lwYWFhdGZtbGxpMXR4M2d5a3Z4Nm16MTdtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriNQ0GUynXIrFXsA/giphy.gif);
+    background-position: center;
+    background-clip: text;
+}   
+
+
+
+
+
